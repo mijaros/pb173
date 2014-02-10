@@ -28,6 +28,18 @@
          "prop0": "value0",
          "prop1": {"this": "that"}
          }
+       },
+       {
+        "type" : "Feature",
+         "geometry" :{
+            "type" : "Point", "coordinates": [49.587656, 16.753414]
+         },
+         "properties": {
+            "Datum": "10.2.2014"
+         }
        }
+
+
      ]
+
    }
