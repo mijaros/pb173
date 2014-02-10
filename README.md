@@ -8,3 +8,13 @@ Seznam:
 
 Sekce 2
 =======
+
+```c++
+#include <iostream>
+
+int main()
+{
+  printf("Hello World!\n");
+  return 0;
+}
+```
