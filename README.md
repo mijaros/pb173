@@ -18,3 +18,8 @@ int main()
   return 0;
 }
 ```
+
+| Tables are cool    | Tabulky jsou nej  |
+|--------------------|-------------------|
+|this is some line   |Toto je radek      |
+|this is another line| Uplne jina tabulka|
