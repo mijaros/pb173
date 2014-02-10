@@ -38,6 +38,22 @@
             "Datum": "10.2.2014"
          }
        }
+       {
+        "type" : "Feature",
+        "geometry" : {
+          "type" : "LineString",
+            "coordinates" : [
+              [16.232351,49.505101] , [16.753414, 49.587656]
+            ]
+        },
+        "properties" : {
+          "Nazev" : "Xfce cesta",
+          "seznam" : {
+            "prvni" : "16.232351,49.505101",
+            "druhe" : "16.753414, 49.587656"
+          }
+        }
+       }
 
 
      ]
