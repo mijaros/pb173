@@ -40,6 +40,15 @@
        },
        {
         "type" : "Feature",
+         "geometry" :{
+            "type" : "Point", "coordinates": [16.232351,49.505101]
+         },
+         "properties": {
+            "Datum": "9.2.2014"
+         }
+       },
+       {
+        "type" : "Feature",
         "geometry" : {
           "type" : "LineString",
             "coordinates" : [
