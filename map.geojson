@@ -32,7 +32,7 @@
        {
         "type" : "Feature",
          "geometry" :{
-            "type" : "Point", "coordinates": [49.587656, 16.753414]
+            "type" : "Point", "coordinates": [16.753414, 49.587656]
          },
          "properties": {
             "Datum": "10.2.2014"
